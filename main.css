@@ -1,0 +1,7 @@
+.channelTabs-tabName {
+    color: lightBlue;
+}
+
+.channelTabs-tabName:hover {
+    color: turquoise;
+}
